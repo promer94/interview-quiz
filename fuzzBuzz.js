@@ -5,9 +5,9 @@
  * 如果是 既是3的倍数 又是5的倍数 往数组中储存一个 'FizzBuzz'
  * 其余情况 往数组中中储存一个 ’‘
  */
-function fuzzBuzz() {}
+function fizzBuzz() {}
 
-const result = fuzzBuzz()
+const result = fizzBuzz()
 
 const expected = [
   '',
